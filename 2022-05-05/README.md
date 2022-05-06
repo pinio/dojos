@@ -38,7 +38,7 @@ Negativos:
 Participantes:
 ==============
 
-* [andrelgarcia] (https://github.com/andrelgarcia)
+* [andrelgarcia](https://github.com/andrelgarcia)
 * [bordax](https://github.com/bordax)
 * [camilashiga](https://github.com/camilashiga)
 * [mawkee](https://github.com/mawkee)
