@@ -40,3 +40,4 @@ Em cada pasta encontram-se:
 ## Dojos realizados
 
 * [2022-05-05](2022-05-05): Palavras primas
+* [2022-05-19](2022-05-19): Parenteses booleano
